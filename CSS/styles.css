@@ -3,3 +3,29 @@
   height: 250px;
   width: 100vw;
 }
+.quote {
+  background-color: greenyellow;
+  width: 500px;
+  height: 100px;
+  justify-content: center;
+  margin-top: 25px;
+  margin-left: 400px;
+}
+
+.number {
+  background-color: orange;
+  width: 700px;
+  height: 200px;
+  justify-content: center;
+  margin-top: 25px;
+  margin-left: 300px;
+}
+
+.help {
+  background-color: purple;
+  width: 500px;
+  height: 100px;
+  justify-content: center;
+  margin-top: 25px;
+  margin-left: 400px;
+}
