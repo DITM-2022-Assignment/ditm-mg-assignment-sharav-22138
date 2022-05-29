@@ -10,6 +10,7 @@
   justify-content: center;
   margin-top: 25px;
   margin-left: 400px;
+  text-align: center;
 }
 
 .number {
@@ -28,4 +29,8 @@
   justify-content: center;
   margin-top: 25px;
   margin-left: 400px;
+}
+
+h1 {
+  size: 100px;
 }
